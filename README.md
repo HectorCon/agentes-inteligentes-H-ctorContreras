@@ -8,18 +8,18 @@ Agentes Inteligentes con Python
 * con base en ambas hace las vueltas necesarias para todos los carros.
 
 
-#Creador Buscador Objetos
+# Creador Buscador Objetos
 
 * Se parametriza un agente buscador y un objeto buscado.
 * Se inicializa en una ubicacion inicial y dependiendo de este se comienza la matriz.
 
-#Diagnostico Medito
+# Diagnostico Medito
 
 * En este se parametrizan una matriz de enfermadades y posibles respuestas.
 * si no la encuentra devuelve una respuesta generica. 
 
 
-#Recomendacion Peliculas
+# Recomendacion Peliculas
 
 * Se trabaja una matriz de peliculas por genero.
 * Se trabaja una seleccion en automatico. 
